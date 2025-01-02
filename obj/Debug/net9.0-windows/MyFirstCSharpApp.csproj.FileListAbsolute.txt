@@ -1,0 +1,14 @@
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\bin\Debug\net9.0-windows\MyFirstCSharpApp.exe
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\bin\Debug\net9.0-windows\MyFirstCSharpApp.deps.json
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\bin\Debug\net9.0-windows\MyFirstCSharpApp.runtimeconfig.json
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\bin\Debug\net9.0-windows\MyFirstCSharpApp.dll
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\bin\Debug\net9.0-windows\MyFirstCSharpApp.pdb
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.AssemblyInfoInputs.cache
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.AssemblyInfo.cs
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.dll
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\refint\MyFirstCSharpApp.dll
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.pdb
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\MyFirstCSharpApp.genruntimeconfig.cache
+C:\Users\pc w\Desktop\mycsharp\MyFirstCSharpApp\obj\Debug\net9.0-windows\ref\MyFirstCSharpApp.dll
